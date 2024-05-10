@@ -17,7 +17,7 @@ docker exec -it ollama ollama run mistral
 Check with ollama is running local
 Go to browser with url http://localhost:11434
 
-![Ollma server](Images/Ollama server.png)
+![Ollma server](https://github.com/stefchui/Langchain-with-Ollama/blob/main/Images/Ollama%20server.png?raw=true)
 
 ## Runing python codes with Ollama
 
